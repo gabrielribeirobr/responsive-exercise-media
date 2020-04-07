@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  height: 100vh;
+  text-align: center;
+  background: blue;
+}
+
+.content{
+  padding: 80px;
+  height: 200px;
+  font-size: 2em;
+  color: white;
+  margin-top: 10%;
+  min-width: 1000px;
+  max-width: 1280px;
+  background: red;
+  display: inline-block;
+  
+}
